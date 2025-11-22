@@ -1,0 +1,7 @@
+Rotas:
+/login, /register
+/dashboard
+/disciplines, /disciplines/:id/topics
+/topics/:id/flashcards
+/study/today
+/study/topic/:id
